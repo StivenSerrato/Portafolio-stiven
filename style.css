@@ -3,11 +3,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: black;
 }
 
 header {
-    background-color: #a30000;
+    background-color: blue;
     color: #fff;
     text-align: center;
     padding: 20px;
@@ -81,7 +81,7 @@ textarea {
 
 input[type="submit"] {
     background-color: #a30000;
-    color: #fff;
+    color: white;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
@@ -89,13 +89,13 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-    background-color: #5b0000;
+    background-color: blue;
 }
 
 /* Estilos para el footer */
 footer {
-    background-color: #a30000;
-    color: #fff;
+    background-color: blue;
+    color: black;
     text-align: center;
     padding: 20px 0;
 }
@@ -116,7 +116,7 @@ footer ul li {
 
 footer ul li a {
     text-decoration: none;
-    color: #fff;
+    color: black;
     font-size: 18px;
 }
 
